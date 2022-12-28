@@ -1,6 +1,6 @@
 # AmongUsSimpleModInstaller
 <br>
-<br>only use when a "manual" install is required, the ingame updater is better.
+<br>only use when a "manual" install is required, the ingame updater for the main mods (the ones this supports) is better.
 <br>
 <br>1 - download
 <br>2 - unzip
